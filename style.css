@@ -1,0 +1,36 @@
+header{
+    background-color: rgb(251, 251, 251);
+    padding: 20px;
+    margin: 20px;
+}
+body {
+    background-color: rgb(60, 60, 60);
+}
+li {
+    display: inline;
+    margin: 0 0 0 30px;
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 0px;
+    box-sizing: border-box;
+    border: 2px solid ;
+    border-radius: 20px;
+
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+li:houver {
+    border-color: coral;
+}
+h2 {
+    display: inline;
+    margin: 0 0 0 600px;
+}
+footer {
+    position: inherit;
+    width: 940;
+    margin: 0 auto;
+}
